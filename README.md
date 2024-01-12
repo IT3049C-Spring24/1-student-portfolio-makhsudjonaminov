@@ -10,18 +10,22 @@
 <!--- Update the following line with your self-grade --->
 <!--- Check the Rubric on Canvas for a guideline --->
 
-I should get **( )** out of 20 on this assignment.
+I should get 20 out of 20 on this assignment.
 
 ## Self-Reflection:
 
 - **How long it took me to finish this?**
 <!-- Answer below this line -->
+It took about 3 hours to finish this assignment.
 
 - **What do you think of this completion time?**
 <!-- Answer below this line -->
+It was my first time working on GitHub, and as a result, it took me 3 hours to finish.
 
 - **In hindsight, what would you do differently?**
 - <!-- Answer below this line -->
+I think everything is good for now!
 
 - **What resources did you use?**
 - <!-- Answer below this line -->
+I used resourses such as Style, Img. 
