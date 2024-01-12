@@ -1,0 +1,65 @@
+/* resources/styles/styles.css */
+
+/* General styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Section styles */
+.section {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section h2 {
+  color: #333;
+}
+
+#personal-background {
+  background-color: #eaf7fd;
+}
+
+#experience {
+  background-color: #e8f9e1;
+}
+
+#programming-languages {
+  background-color: #fdeee6;
+}
+
+#achievements {
+  background-color: #fcefe6;
+}
+
+/* List styles */
+#experience ol,
+#programming-languages ol,
+#achievements ul {
+  padding: 0;
+  margin: 0;
+}
+
+#experience ol li,
+#programming-languages ol li,
+#achievements ul li {
+  list-style: none;
+  margin-bottom: 5px;
+}
